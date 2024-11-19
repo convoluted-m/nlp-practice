@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 pandas = "*"
+readchar = "*"
+jupyter = "*"
 
 [dev-packages]
 
