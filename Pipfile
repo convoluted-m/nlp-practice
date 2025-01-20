@@ -7,6 +7,8 @@ name = "pypi"
 pandas = "*"
 readchar = "*"
 jupyter = "*"
+matplotlib = "*"
+nnfs = "*"
 
 [dev-packages]
 
